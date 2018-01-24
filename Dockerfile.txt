@@ -1,4 +1,4 @@
-#Dockerfil for apache Marmotta
+#Dockerfile for apache Marmotta
 
 FROM centos/systemd
 
